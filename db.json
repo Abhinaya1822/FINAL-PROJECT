@@ -1,0 +1,22 @@
+{
+  "newUser": [
+    {
+      "username": "existingUser",
+      "email": "kaamya@gmail.com",
+      "password": "123",
+      "id": "1904"
+    },
+    {
+      "id": "df82",
+      "username": "shalik",
+      "email": "shalik@gmail.com",
+      "password": "shalik"
+    },
+    {
+      "id": "cd74",
+      "username": "kaamya",
+      "email": "kaamya@gmail.com",
+      "password": "123"
+    }
+  ]
+}
